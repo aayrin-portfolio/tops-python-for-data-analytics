@@ -11,6 +11,6 @@ if cart_value> 1000:
     if payment_method == "UPI":
         print("Eligible for 10 % cashback")
     else:
-        print("Eligible for 5 %Z cashback")
+        print("Eligible for 5 % cashback")
 else:
     print("No cashabck")            
